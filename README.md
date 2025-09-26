@@ -47,7 +47,7 @@ switch2.
 <img width="845" height="478" alt="image" src="https://github.com/user-attachments/assets/cbd93a4d-5dc4-4f73-9291-1c45cf1809aa" />
 
 ## Tabulation:1
-	<img width="475" height="417" alt="image" src="https://github.com/user-attachments/assets/5476c6b4-cbd4-4297-a695-85e10f0561be" />
+<img width="475" height="417" alt="image" src="https://github.com/user-attachments/assets/5476c6b4-cbd4-4297-a695-85e10f0561be" />
 
 ## Cross connection: 
 ![WhatsApp Image 2025-09-26 at 18 08 46_ff175ca4](https://github.com/user-attachments/assets/72c14e97-ccf5-4563-a6e7-f312d47f1e1d)
